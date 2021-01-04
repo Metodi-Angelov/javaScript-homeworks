@@ -15,3 +15,4 @@ function sameNumbers(number) {
 
 sameNumbers(2222222)
 sameNumbers(1234)
+sameNumbers(321412)
