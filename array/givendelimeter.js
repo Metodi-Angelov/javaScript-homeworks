@@ -4,11 +4,4 @@ function givenDelimeter(arr) {
     return result;
 }
 
-console.log(givenDelimeter(['How about no?', 
-'I',
-'will', 
-'not', 
-'do', 
-'it!', 
-'_']
-))
+console.log(givenDelimeter(['How about no?', 'I', 'will', 'not', 'do', 'it!', '_']))
