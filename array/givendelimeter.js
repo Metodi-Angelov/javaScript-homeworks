@@ -1,6 +1,6 @@
 function givenDelimeter(arr) {
     let delimeter = arr.pop();
-    let result = arr.join(`${delimeter}`);
+    let result = arr.join(delimeter);
     return result;
 }
 
